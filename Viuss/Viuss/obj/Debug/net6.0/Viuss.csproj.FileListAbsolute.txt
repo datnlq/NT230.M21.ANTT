@@ -1,0 +1,15 @@
+C:\Users\datnl\source\repos\Viuss\Viuss\bin\Debug\net6.0\Viuss.exe
+C:\Users\datnl\source\repos\Viuss\Viuss\bin\Debug\net6.0\Viuss.deps.json
+C:\Users\datnl\source\repos\Viuss\Viuss\bin\Debug\net6.0\Viuss.runtimeconfig.json
+C:\Users\datnl\source\repos\Viuss\Viuss\bin\Debug\net6.0\Viuss.dll
+C:\Users\datnl\source\repos\Viuss\Viuss\bin\Debug\net6.0\Viuss.pdb
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.csproj.AssemblyReference.cache
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.AssemblyInfoInputs.cache
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.AssemblyInfo.cs
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.csproj.CoreCompileInputs.cache
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.dll
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\refint\Viuss.dll
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.pdb
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\Viuss.genruntimeconfig.cache
+C:\Users\datnl\source\repos\Viuss\Viuss\obj\Debug\net6.0\ref\Viuss.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viuss", "Viuss\Viuss.csproj", "{5E810F6B-29F1-4507-81A9-31EF3C2F5A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E810F6B-29F1-4507-81A9-31EF3C2F5A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E810F6B-29F1-4507-81A9-31EF3C2F5A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E810F6B-29F1-4507-81A9-31EF3C2F5A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E810F6B-29F1-4507-81A9-31EF3C2F5A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FB5B4B-EC2F-46FE-AEDE-5260292124B4}
+	EndGlobalSection
+EndGlobal
